@@ -35,8 +35,7 @@ seo:
       value: Two Projects to Watch This Month on Near Protocol
     - name: 'twitter:description'
       value: >-
-        Hiking refers to difficult walking through dense forest, undergrowth, or
-        bushes.
+        Two Projects to Watch This Month on Near Protocol
     - name: 'twitter:image'
       value: images/1.jpg
       relativeUrl: true
