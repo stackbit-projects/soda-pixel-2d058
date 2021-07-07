@@ -67,6 +67,7 @@ Skyward aims to make token launches fair, decentralized, and resistant to Sybil 
 - **[Skyward Finance](https://github.com/skyward-finance)** on Github
 - **[Skyward Flight](https://t.me/skywardfinance)** community on Telegram
 
+
 # **HipHop Heads**
 
 The Nft market has been heating up over the last 12 months, and with it have come some very unique art collections. Hip hop heads are the newest NFT collection on the block in the Near ecosystem. The collaborative art series features the works of the celebrated artist **[André LeRoy Davis](https://www.instagram.com/aldreday/)**. Each illustration exists as a collection of 47, representing the 47 years of the hip-hop era!
