@@ -9,7 +9,7 @@ content_img_path: images/1.jpg
 seo:
   title: Two Projects to Watch This Month on Near Protocol
   description: >-
-    Its been very busy in the crypto-verse over the last few weeks, the influx of new NFT marketplaces and Defi protocols have resulted in rising gas prices on Ethereum. This has sparked great speculation over what will be the next layer-2 solution.
+    Its been very busy in the crypto-verse over the last few weeks, the influx of new NFT marketplaces and Defi protocols have resulted in rising gas prices on Ethereum. 
   extra:
     - name: 'og:type'
       value: article
