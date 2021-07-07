@@ -61,7 +61,7 @@ On June 24 Skyward launched on the Near Mainnet, the contract for Skyward can be
 
 Skyward aims to make token launches fair, decentralized, and resistant to Sybil attacks. Skyward achieves this through its token sale mechanism called ‘streaming time-based auctions’. Effectively, all tokens launching on Skyward’s platform will follow the same sale structured timeline as the original Skyward token. New Tokens will release in 6 waves, each lasting one week at a time. The sale mechanism is naturally resistant to pump and dump schemes and ensures that ALL participants are able to purchase tokens at a fair and reasonable price.
 
-# **Skyward:**
+**Skyward:**
 
 - **[@SkywardFinance](https://twitter.com/skywardfinance)** on Twitter
 - **[Skyward Finance](https://github.com/skyward-finance)** on Github
