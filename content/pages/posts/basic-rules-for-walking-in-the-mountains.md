@@ -59,6 +59,14 @@ Skyward finance is the first native launchpad on the Near protocol. The [Skywar
 
 On June 24 Skyward launched on the Near Mainnet, the contract for Skyward can be found here. The Skyward finance contract owns 90% of all tokens at launch, the other 10% is locked into various lockup contracts for early adopters, testers, and expanding the ecosystem. The skyward treasury, which is part of the skyward contract, keeps the proceeds of all $wNear used to purchase $Skyward, and takes a 1 % commission from every other sale. The Skyward token represents ownership of the treasury, users who own skyward are able to burn the skyward token and claim a share of the treasury at a 1:1 ratio. This is a healthy mechanism as it ensures the skyward token should hold some future value. The initial token sale for Skyward started on July 1st and lasts for a week. There will be further sales of Skyward every month from July until December 2021.
 
+Skyward aims to make token launches fair, decentralized, and resistant to Sybil attacks. Skyward achieves this through its token sale mechanism called ‘streaming time-based auctions’. Effectively, all tokens launching on Skyward’s platform will follow the same sale structured timeline as the original Skyward token. New Tokens will release in 6 waves, each lasting one week at a time. The sale mechanism is naturally resistant to pump and dump schemes and ensures that ALL participants are able to purchase tokens at a fair and reasonable price.
+
+# **Skyward:**
+
+- **[@SkywardFinance](https://twitter.com/skywardfinance)** on Twitter
+- **[Skyward Finance](https://github.com/skyward-finance)** on Github
+- **[Skyward Flight](https://t.me/skywardfinance)** community on Telegram
+
 # **HipHop Heads**
 
 The Nft market has been heating up over the last 12 months, and with it have come some very unique art collections. Hip hop heads are the newest NFT collection on the block in the Near ecosystem. The collaborative art series features the works of the celebrated artist **[André LeRoy Davis](https://www.instagram.com/aldreday/)**. Each illustration exists as a collection of 47, representing the 47 years of the hip-hop era!
