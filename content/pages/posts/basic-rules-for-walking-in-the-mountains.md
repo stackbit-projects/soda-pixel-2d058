@@ -51,7 +51,7 @@ Its been very busy in the crypto-verse over the last few weeks, the influx of ne
 
 Controversy exists in the cryptocurrency space around the private sale of tokens to VC firms and crypto influencers. These tokens are usually acquired for a significant discount during the private sale, giving participants a significant opportunity for profit if they sell shortly after the token launches to retail traders. This often results in a price dump in the underlying token and the crypto community has started to notice.
 
-**Skyward Finance**
+# **Skyward Finance**
 
 Skyward finance is the first native launchpad on the Near protocol. The [Skyward platform](https://skyward.finance/launchpad/) enables new projects building on Near to raise capital and offer early access to token sales. Primary features of the Skyward launchpad include its ‘*resistance to bot and sybil attacks’,* all **while facilitating fair and decentralized token sales which largely address the issues presented above.
 
