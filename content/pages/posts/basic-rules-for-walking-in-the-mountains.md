@@ -32,7 +32,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Basic Rules For Walking In The Mountains
+      value: Two Projects to Watch This Month on Near Protocol
     - name: 'twitter:description'
       value: >-
         Hiking refers to difficult walking through dense forest, undergrowth, or
