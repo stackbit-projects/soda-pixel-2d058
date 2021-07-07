@@ -66,7 +66,7 @@ Skyward aims to make token launches fair, decentralized, and resistant to Sybil 
 - **[@SkywardFinance](https://twitter.com/skywardfinance)** on Twitter
 - **[Skyward Finance](https://github.com/skyward-finance)** on Github
 - **[Skyward Flight](https://t.me/skywardfinance)** community on Telegram
-
+---------
 
 # **HipHop Heads**
 
