@@ -63,5 +63,4 @@ Skyward aims to make token launches fair, decentralized, and resistant to Sybil 
 
 Skyward:
 @SkywardFinance on Twitter
-Skyward Finance on Github
-Skyward Flight community on Telegram
+
