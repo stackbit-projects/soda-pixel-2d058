@@ -64,3 +64,6 @@ Skyward aims to make token launches fair, decentralized, and resistant to Sybil 
 Skyward:
 @SkywardFinance on Twitter
 
+HipHop Heads
+The Nft market has been heating up over the last 12 months, and with it have come some very unique art collections. Hip hop heads are the newest NFT collection on the block in the Near ecosystem. The collaborative art series features the works of the celebrated artist André LeRoy Davis. Each illustration exists as a collection of 47, representing the 47 years of the hip-hop era!
+A hip-hop head is named based on its place in the 47-year timeline, each featuring a portrait of the various lyrical geniuses who cemented their place in Hip Hop history. The first card of each series will be donated to reside in the Universal Hip Hop’s museum of crypto art to live on throughout history.
